@@ -2,7 +2,7 @@
 
 ## การติดตั้ง Dagster
 
-เราจะใช้ Python environment กัน ซึ่งวิธีนี้เป็นวิธีที่เราจะได้ลองเล่น Dagster ได้ง่ายที่สุด ขอแค่เรามี Python อยู่บนเครื่องเราพอครับ เริ่มต้นเราสร้าง Python virtual environment ก่อนเลย
+เราจะใช้ Python environment กัน ซึ่งวิธีนี้เป็นวิธีที่เราจะได้ลองเล่น Dagster ได้ง่ายที่สุด ขอแค่เรามี Python (แนะนำ Python 3 ขึ้นไป) อยู่บนเครื่องเราพอครับ เริ่มต้นเราสร้าง Python virtual environment ก่อนเลย
 
 ```sh
 python -m venv ENV
